@@ -8,7 +8,7 @@ public class Calculator {
 	}
 	//FIXME:
 	public int minus(int a, int b) {
-		return a - b;  // ERROR!!!
+		return a - b; 
 	}
 	//NOTE:
 	public int divide(int a, int b) {
